@@ -4,7 +4,7 @@ I am interested in colliating, cleaning data, creating insightful dashboards tha
 - 💞️ I’m looking to collaborate on more data projects to expand my knowledge
   
 - 😄 Pronouns: Female
-- ⚡ Fun fact: I love watching movies just to analyse it.
+- ⚡ Fun fact: I love watching movies just for fun.
 
 <!---
 Tyanaluv/Tyanaluv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
